@@ -63,7 +63,7 @@ The script `management_zones.js` runs in 12 sections:
 
 ## Limitations
 
-This workflow is for farmer by a crop consultant. This differes from field to field and year to year. Remember every field has a story.
+This workflow is for farmer by a crop consultant. This differs from field to field and year to year. Remember every field has a story.
 - **NDVI ≠ yield.** Greenness correlates with biomass but yield depends on grain filling, harvest conditions, and management. Validate against ground truth where possible.
 - **Sentinel-2 resolution (10–30 m)** captures patch-level variability but misses fine-scale heterogeneity.
 - **POLARIS soil data is modeled**, not measured. For high-stakes decisions, ground-truth with actual soil samples.
